@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhouse",
+    "packageName": "org.teamcollab.jhouse",
+    "packageFolder": "org/teamcollab/jhouse",
+    "authenticationType": "oauth2",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "2d71163ded19c62b9e387ee56d73c8e416d04ac3"
+  }
+}
