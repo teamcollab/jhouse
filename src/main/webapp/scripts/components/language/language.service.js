@@ -28,6 +28,8 @@ angular.module('jhouseApp')
  */
     .constant('LANGUAGES', [
         'en', 'fr'
+        ,'zh-cn'
+        ,'zh-tw'
         //JHipster will add new languages here
     ]
 );
